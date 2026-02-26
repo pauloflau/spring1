@@ -81,4 +81,13 @@ Este repositório tem como objetivo:
 
 👉 Sinta-se livre para clonar, testar e adaptar este projeto para seus estudos!
 
+---
+
+## ✍️ Contato
+Caso queira trocar ideias ou sugerir melhorias:  
+**Paulo Flau**
+- 💼 [LinkedIn](https://www.linkedin.com/in/pauloflau/)
+
+---
+
 
